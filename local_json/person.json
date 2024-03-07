@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Saksham",
+    "age":"20",
+    "height":"180",
+    "branch":"CSE"
+  },
+  {
+    "name":"Vimarsh",
+    "age":"19",
+    "height":"166",
+    "branch":"AI and DS"
+  },
+  {
+    "name":"Manan",
+    "age":"20",
+    "height":"170",
+    "branch":"CSE"
+  },
+  {
+    "name":"Vaibhav",
+    "age":"21",
+    "height":"174",
+    "branch":"CSE"
+  },
+  {
+  "name":"Tony",
+  "age":"20",
+  "height":"176",
+  "branch":"CSE"
+}
+]
